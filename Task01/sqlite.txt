@@ -1,0 +1,14 @@
+Версия SQLite: 3.53
+Доступные режимы вывода:
+-column
+-csv
+-html
+-insert
+-json
+-line
+-list
+-quote
+-table
+-tabs
+-box
+
